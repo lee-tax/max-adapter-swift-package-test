@@ -1,0 +1,27 @@
+{
+  "adapters": {
+    "AppLovinAdapter": {
+      "checksum": "69e1b2dc686e7018f82909d54b1c7054c5baabe08f42a57ae87669712617508f",
+      "dependencies": {
+        "core": {
+          "product": "TaurusxAdsSDK",
+          "repository": "lee-tax/spm_test",
+          "requirement": "exact",
+          "version": "1.1.0"
+        },
+        "network": {
+          "product": "AppLovinSDK",
+          "repository": "AppLovin/AppLovin-MAX-Swift-Package",
+          "requirement": "exact",
+          "version": "13.0.0"
+        }
+      },
+      "minimumIOS": "12.0",
+      "module": "TaxAppLovinAdapter",
+      "product": "TaurusxAppLovinAdapter",
+      "target": "TaurusxAppLovinAdapterTarget",
+      "url": "https://github.com/lee-tax/max-adapter-swift-package-test/releases/download/1.0.0/TaxAppLovinAdapter.zip"
+    }
+  },
+  "schemaVersion": 3
+}
