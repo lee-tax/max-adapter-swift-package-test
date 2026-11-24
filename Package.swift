@@ -52,7 +52,7 @@ let package = Package(
         // Adapter 二进制：下载地址指向实际发布的 XCFramework ZIP。
         .binaryTarget(
             name: "TaxAppLovinAdapter",
-            url: "https://github.com/lee-tax/max-adapter-swift-package-test/releases/download/1.0.0/TaxAppLovinAdapter.zip",
+            url: "https://github.com/lee-tax/max-adapter-swift-package-test/releases/download/1.0.0/1.0.0.zip",
             // 根据上述 ZIP 的实际内容计算 SHA-256。
             checksum: "69e1b2dc686e7018f82909d54b1c7054c5baabe08f42a57ae87669712617508f"
         )
