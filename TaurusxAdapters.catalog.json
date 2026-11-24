@@ -20,8 +20,8 @@
       "module": "TaxAppLovinAdapter",
       "product": "TaurusxAppLovinAdapter",
       "target": "TaurusxAppLovinAdapterTarget",
-      "url": "https://github.com/lee-tax/max-adapter-swift-package-test/releases/download/1.1.0/TaxAppLovinAdapter.zip"
+      "url": "https://github.com/lee-tax/max-adapter-swift-package-test/releases/download/1.2.0/TaxAppLovinAdapter.zip"
     }
   },
-  "schemaVersion": 3
+  "schemaVersion": 5
 }
